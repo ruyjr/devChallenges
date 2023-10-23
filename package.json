@@ -1,0 +1,14 @@
+{
+  "name": "devchallenges",
+  "version": "1.0.0",
+  "description": "My first project from devChallenges site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "RuyJr on devChallenges",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
